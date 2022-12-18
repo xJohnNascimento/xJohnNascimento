@@ -6,6 +6,13 @@
 </div>
 <div id="body"align="left">
   <h2> About me </h2>
-  <li> I'm a software engineer from Brazil </li>
-  <li> I have experience with Back-End: .net core, .net framework / Front-End: Angular, React / DataBase: SqlServer, PostgreSql, Aurora, DynamoDb </li>
+  
+  🇧🇷 I'm a software engineer from Brazil.
+  
+  💻 Graduated in Computer Engineering.
+  
+  📚 Experience ⭐⭐⭐
+  - Back-End: C# ⭐⭐⭐ (.net core, .net framework), Python ⭐
+  - Front-End: Java Script ⭐⭐ and Type Script ⭐⭐ (Angular, React) 
+  - DataBase: SQL ⭐⭐⭐ (SqlServer, PostgreSql, Aurora) and NOSQL ⭐ (DynamoDb)
 </div>
