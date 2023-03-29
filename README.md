@@ -7,12 +7,12 @@
 <div id="body"align="left">
   <h2> About me </h2>
   
-  🇧🇷 I'm a software engineer from Brazil.
+  🇧🇷 I'm a software engineer from Brazil. I'm working for Itaú Unibanco
   
   💻 Graduated in Computer Engineering.
   
-  📚 Experience ⭐⭐⭐
-  - Back-End: C# ⭐⭐⭐ (.net core, .net framework), Python ⭐
-  - Front-End: Java Script ⭐⭐ and Type Script ⭐⭐ (Angular, React) 
-  - DataBase: SQL ⭐⭐⭐ (SqlServer, PostgreSql, Aurora) and NOSQL ⭐ (DynamoDb)
+  📚 Experience
+  - C# (.net core, .net framework)
+  - Javascript, Typescript (React, Angular)
+  - SQL (SqlServer, PostgreSql, MySQL, RDS) and NOSQL (DynamoDb, MongoDB)
 </div>
