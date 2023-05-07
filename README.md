@@ -10,10 +10,4 @@
   🇧🇷 I'm a software engineer from Brazil. I'm working for Itaú Unibanco
   
   💻 Graduated in Computer Engineering.
-  
-  📚 Experience
-  - C# (.net core, .net framework)
-  - Python
-  - Javascript, Typescript (React, Angular)
-  - SQL (SqlServer, PostgreSql, MySQL, RDS) and NOSQL (DynamoDb, MongoDB)
 </div>
