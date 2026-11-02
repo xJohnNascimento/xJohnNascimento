@@ -3,7 +3,7 @@ Hi, I'm Jonathan, Staff Software Engineer and Tech Lead at [Stark Bank](https://
 Since 2020 I've built systems that move and account for money in Brazilian finance:
 
 - **Stark Bank** (2024–now): I lead engineering for credit and investments, crypto, and regulatory reporting, including the platform that files mandatory reports to Brazil's central bank and tax authority.
-- **Itaú Unibanco** (2020–2024): I maintained the messaging core of Brazil's interbank settlement system, its equivalent of Fedwire, at 40M+ transactions a day.
+- **Itaú Unibanco** (2020–2024): I maintained and modernized the messaging core of Brazil's interbank settlement system, its equivalent of Fedwire, which carries 40M+ transactions a day and R$30 trillion (≈US$5.5T) a month. Alongside the legacy .NET Framework and IBM MQ stack, I built new services on .NET 6, Kafka and AWS, including the contingency portal that keeps settlement flowing when the primary channel is down.
 
 That code is proprietary, so this is where I build the same kind of systems in the open.
 
@@ -22,7 +22,7 @@ Uncomment this section, and drop the "Now building" line, once the first project
 
 ### Stack
 
-- **Languages:** Python, C#/.NET, TypeScript, SQL
+- **Languages:** Python, C#/.NET, TypeScript
 - **Cloud:** GCP, AWS
 - **Data and messaging:** PostgreSQL, BigQuery, SQL Server, Kafka, Pub/Sub, IBM MQ
 
