@@ -1,8 +1,7 @@
 Hi, I'm Jonathan, Staff Software Engineer and Tech Lead at [Stark Bank](https://starkbank.com), previously at Itaú Unibanco.
 Since 2020 I've built payment, credit, investment, crypto and regulatory systems in Brazilian finance.
 
-That code is proprietary, so this is where I build the same kind of systems in the open, starting with a double-entry ledger and an FX service.
-More about me on [LinkedIn](https://www.linkedin.com/in/xjonathannascimento/).
+More on [LinkedIn](https://www.linkedin.com/in/xjonathannascimento/).
 
 <!--
 Uncomment this section once the first project is public.
@@ -18,8 +17,7 @@ Uncomment this section once the first project is public.
 ### Technologies
 
 - **Languages:** Python, Go, C#, TypeScript, JavaScript
-- **Frameworks:** .NET, ASP.NET MVC, Angular
-- **Google Cloud:** Cloud Run, App Engine, Firestore, BigQuery, Cloud Storage, Pub/Sub
-- **AWS:** ECS, Lambda, API Gateway, DynamoDB, Aurora, RDS, S3, SQS, SNS, CloudWatch
-- **Databases and messaging:** PostgreSQL, SQL Server, MySQL, Kafka, IBM MQ, Connect:Direct
-- **Tooling:** Docker, Terraform, GitHub Actions, Grafana, Nix
+- **Frameworks:** Flask, FastAPI, .NET, ASP.NET MVC, Angular
+- **Cloud:** AWS, GCP
+- **Data:** PostgreSQL, SQL Server, MySQL, BigQuery, Firestore, DynamoDB
+- **Messaging:** Kafka, Pub/Sub, IBM MQ, SQS, SNS, Connect:Direct
